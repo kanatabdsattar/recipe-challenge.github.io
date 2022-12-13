@@ -221,7 +221,9 @@ section {
 }
 
 /* ************** FOOTER ******************* */
-
+footer{
+  font-size: 14px;
+}
 .footer__text {
   display: flex;
   height: 60px;
