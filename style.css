@@ -164,6 +164,16 @@ section {
   font-style: italic;
   font-weight: 400;
   color: #bdbdbd;
+  text-decoration: none;
+}
+
+.source a{
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  color: #bdbdbd;
+  text-decoration: none;
 }
 
 /* ************ ASIDE ****************** */
@@ -313,5 +323,10 @@ section {
     font-size: 14px;
     display: block;
   }
-  
+  .footer__text {
+    font-size: 14px;
+  }
+  .footer__link {
+    font-size: 14px;
+  }
 }
